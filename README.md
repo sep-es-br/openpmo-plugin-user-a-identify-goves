@@ -1,4 +1,4 @@
-# OpenPMO Public Identity Check GOVES
+# OpenPMO Plugin User a Identify GOVES
 
 Implementação GOVES do contrato de validação de identidade pública do OpenPMO.
 
